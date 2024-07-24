@@ -1,6 +1,8 @@
+#This is my first "Serious Program", so any suggestions would be greatly appreciated#
+
 print("""
       Bienvenido a la calculadora
-      Para salir escribe Salir
+      Para salir escribe "Salir"
       Las Operaciones disponibles son suma, multi, div y resta
 """)
 
