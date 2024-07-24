@@ -3,7 +3,7 @@
 print("""
       Bienvenido a la calculadora
       Para salir escribe "Salir"
-      Las Operaciones disponibles son suma, multi, div y resta
+      Las Operaciones disponibles son: suma, multi, div y resta
 """)
 
 resultado = ""
